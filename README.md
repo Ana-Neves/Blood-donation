@@ -104,10 +104,10 @@ Each API follows the REST standard with CRUD operations.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Ana-Neves/Blood-donation.git
 
 # Access the folder
-cd your-repository
+cd Blood-donation.git
 
 # Install dependencies
 npm install
